@@ -37,7 +37,7 @@
 	Click the rectangle(s) to select it. Once you click atleast one rectangle the rectangle border changes to "red" color. 
 	The "Color" and "Delete" buttons get visible. 
 	
-- Selecting Rectangle(s)
+- Deselecting Rectangle(s)
 
 	Click on the selected rectangle(s) to deselect. The rectangle(s) border color changes to "black".
 	Once there are no selected rectangles (No rectangle border is "red"). The "Color" and "Delete" buttons get collapse. 
