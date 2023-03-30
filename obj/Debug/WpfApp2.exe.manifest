@@ -157,17 +157,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WcGguHXD2h0LUsf9tGPlPj4TsH57qtznBzrx9KGigwc=</dsig:DigestValue>
+        <dsig:DigestValue>mAEEUVdsevMq8OgKruMKBV0S2jD7CEtWRbCjmqkHyY0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="help.txt" size="3876">
+  <file name="help.txt" size="3878">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AIkTLNmc5+NxJvn4dmmqm2MzN0p3lJM27rEtn4Lawps=</dsig:DigestValue>
+      <dsig:DigestValue>vYyePqFwdNhnJAE4o7XhZvbUfUVXU/4rE4lb4/2/w38=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WpfApp2.exe.config" size="1301">
